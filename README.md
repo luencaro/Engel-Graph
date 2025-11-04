@@ -56,12 +56,4 @@ Estos ejemplos aparecen trabajados en el cuaderno como ilustraciones, pero la in
 - Optimización teórica: acotar el $n$ necesario para comprobar $[x,{_n}y]=1$ usando invariantes de grupo (clases de conjugación, órdenes de elementos, estructura de subgrupos).
 - Extensiones: estudiar versiones del grafo de Engel para clases infinitas de grupos (p. ej. grupos residualmente finitos) o su análogo en álgebra de Lie (teorema de Engel).
 
-## Referencias (selección)
 
-- D. J. S. Robinson — A Course in the Theory of Groups (capítulos sobre series centrales y conmutadores).
-- K. W. Gruenberg — The theory of groups (material sobre Engel y nilpotencia en grupos finitos).
-- Literatura clásica sobre elementos de Engel y resultados relacionados (artículos de R. Baer y trabajos sobre Engel en grupos finitos).
-
----
-
-Si quieres, adapto este README para que combine teoría y una breve sección de uso con comandos mínimos; o puedo dejar separado un `USAGE.md` para instrucciones prácticas si prefieres mantener el README centrado en teoría.
